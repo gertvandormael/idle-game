@@ -1,24 +1,29 @@
-# idle-game
+# Game Idea
+## Bandcremental
+### Core idea
+become the greatest band ever! <br>
+click to increase music skill <br>
+spend skill points to learn songs <br>
+upgrades that increases your skill while being idle <br>
+ascension that resets progress with increased click and idle power
 
-## Project setup
-```
-npm install
-```
+### Resources
+skill level <br>
+fame level <br>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Upgrades
+music <br>
+new gear <br>
+band members <br>
+band manager <br>
+groupies <br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Locations (optional)
+starting location: garage <br>
+upgrades: <br>
+small studio <br>
+bigger studio <br>
+mansion <br>
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Ascension 
+Sell your soul to the devil and reset all your progress. But you start with more click power and special perks
