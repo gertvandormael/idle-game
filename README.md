@@ -5,6 +5,8 @@ become the greatest band ever! <br>
 click to increase music skill <br>
 spend skill points to learn songs <br>
 upgrades that increases your skill while being idle <br>
+play gigs when you have the required skill level<br>
+gigs give you more fame <br>
 ascension that resets progress with increased click and idle power
 
 ### Resources
