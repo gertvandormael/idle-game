@@ -13,5 +13,5 @@ git init
 git add -A
 git commit -m 'deploy test'
 
-git push -f git@github.com:<gertvandormael>/<idle-game>.git master:gh-pages
+git push -f git@github.com:gertvandormael/idle-game.git master:gh-pages
 cd -

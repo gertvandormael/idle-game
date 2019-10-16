@@ -1,4 +1,10 @@
-# Game Idea
+# Idle game
+## Link
+[Bandcremental (still under construction)](https://gertvandormael.github.io/idle-game/)
+## How to play
+Click the band image to increase your skill level. When you have enough skill level you can learn songs that increase your click power and idle gains. Click yourself into Hall of Fame Rockstar status!
+
+# Game idea
 ## Bandcremental
 ### Core idea
 become the greatest band ever! <br>
