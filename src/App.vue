@@ -23,31 +23,58 @@
     box-sizing: border-box;
   }
 
+  .header, .band, .skill, .info, .upgrades-song, .song {
+    margin-bottom: 10px;
+  }
+
   body {
-    margin-left: 15px;
+    margin: 5px;
     font-family: 'Ubuntu', sans-serif;
     background: #56965d;
-    color: #cbdbfc;
-    font-size: 16px;
+    color: #ebebeb;
   }
 
   h1 {
     font-family: 'Press Start 2P', cursive;
     font-size: 26px;
+    color: #ff6fd2;
+    margin-top: 5px;
+
   }
 
   h2 {
     font-family: 'Press Start 2P', cursive;
-    margin-top: 10px;
+    font-size: 22px;
+    color: #cbdbfc;
   }
 
   h3 {
     font-family: 'Press Start 2P', cursive;
+    font-size: 16px;
     color: #ff6fd2;
+  }
+
+  .skill h3 {
+    font-size: 24px;
   }
 
   #app {
     display: flex;
     justify-content: center;
   }
+
+  h1, h2, h3 {
+	text-shadow:
+    -2px -2px 0 #6e0054,
+		2px -2px 0 #6e0054,
+		-2px 2px 0 #6e0054,
+		2px 2px 0 #6e0054;
+  }
+
+  @media (min-width: 576px) { 
+    /* h1 {
+      font-size: 12px;
+    } */
+  }
+
 </style>
