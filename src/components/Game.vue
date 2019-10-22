@@ -184,7 +184,7 @@
             >Play show!</button>
             <div class="requirements">
               <ul>
-                <li>Gain {{ fameGain }} fame (10% of your current skill)</li>
+                <li>Gain {{ fameGain }} fame (20% of your current skill)</li>
               </ul>
             </div>
           </div>
@@ -325,11 +325,6 @@ export default {
 
 <style>
 /* Component specific layout */
-  .band {
-    display: flex;
-    justify-content: center;
-  }
-
   img {
     max-width: 250px;
     max-width: 250px;
@@ -413,7 +408,10 @@ export default {
   }
   
   @media (min-width: 768px) {
-
+      .band {
+        display: flex;
+        justify-content: center;
+      }
 
     .clicker {
       display: flex;
