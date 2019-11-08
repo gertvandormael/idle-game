@@ -1,6 +1,6 @@
 # Idle game
 ## Link
-[Bandcremental](https://gertvandormael.github.io/idle-game-old/)
+[Bandcremental](https://gertvandormael.github.io/idle-game/)
 
 ## Notice
 I'm currently remaking this with Vue Router and Vuex. Check out the progress here: https://github.com/gertvandormael/bandcremental
