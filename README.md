@@ -1,6 +1,10 @@
 # Idle game
 ## Link
-[Bandcremental](https://gertvandormael.github.io/idle-game/)
+[Bandcremental](https://gertvandormael.github.io/idle-game-old/)
+
+## Notice
+I'm currently remaking this with Vue Router and Vuex. Check out the progress here: https://github.com/gertvandormael/bandcremental
+
 ## How to play
 Click the band image to increase your skill level. When you have enough skill level you can learn songs that increase your click power and idle gains. Click yourself into Hall of Fame Rockstar status!
 

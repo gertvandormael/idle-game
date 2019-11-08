@@ -349,6 +349,12 @@ export default {
     color: #ff6fd2;
   }
 
+
+
+
+
+  
+
   .info, .button {
     display: flex;
   }
