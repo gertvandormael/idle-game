@@ -1,9 +1,18 @@
 # Idle game
+
+## Notice
+This was my first real Vue.js project and while making this I ran into some issues that made it hard to add new features.
+
+A lot of things are connected with each other (skill, upgrades, ...). So for this reason I made everything in 1 component (Game.vue). Ofcourse this resulted in messy code and difficulties to add more features.
+
+So for that reason I completely remade this project and split it up into multiple components. I used Vuex for state management between components and made it easier to quickly add songs. 
+
+I'm still leaving this repo online but please check out my reworked version :)
+ https://github.com/gertvandormael/bandcremental
+
 ## Link
 [Bandcremental](https://gertvandormael.github.io/idle-game/)
 
-## Notice
-I'm currently remaking this with Vue Router and Vuex. Check out the progress here: https://github.com/gertvandormael/bandcremental
 
 ## How to play
 Click the band image to increase your skill level. When you have enough skill level you can learn songs that increase your click power and idle gains. Click yourself into Hall of Fame Rockstar status!
